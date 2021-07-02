@@ -8,3 +8,5 @@
 dorokuma/dorokuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/backUp/GetJdCookie.md
